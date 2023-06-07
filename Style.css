@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./images/bg\ m1.jpg);
+   background-position: bottom; 
+    background-repeat: center;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    color: lemonchiffon;
+}
+
+.home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.x{
+    padding: 6px;
+    border-radius: 12px;
+}
+.y{
+    padding: 6px;
+    border-radius: 12px;
+}
+.output{
+    padding: 10px;
+    border-radius: 12px;
+}
+.operators{
+    padding: 5px;
+    border-radius: 12px;
+}
+.home button{
+    padding: 10px 15px;
+    border-radius: 12px;
+}
